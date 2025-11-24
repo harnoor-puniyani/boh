@@ -1,0 +1,9 @@
+[submodule "boh-notification-service"]
+	path = boh-notification-service
+	url = https://github.com/harnoor-puniyani/boh-notification-service.git
+[submodule "boh-user-management"]
+	path = boh-user-management
+	url = https://github.com/harnoor-puniyani/boh-user-management.git
+[submodule "boh-account-service"]
+	path = boh-account-service
+	url = https://github.com/harnoor-puniyani/boh-account-service.git
