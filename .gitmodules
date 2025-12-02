@@ -7,3 +7,6 @@
 [submodule "boh-account-service"]
 	path = boh-account-service
 	url = https://github.com/harnoor-puniyani/boh-account-service.git
+[submodule "boh-portal"]
+	path = boh-portal
+	url = https://github.com/harnoor-puniyani/boh-portal.git
